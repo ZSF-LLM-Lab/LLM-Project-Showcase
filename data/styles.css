@@ -10,12 +10,6 @@
   line-height:normal;
   text-transform:none;
 }
-._形状 {
-}
-.box_1 {
-}
-._图片_ {
-}
 ._一级标题 {
   font-family:'Arial Normal', 'Arial';
   font-weight:bold;
@@ -60,38 +54,6 @@
 ._文本段落 {
   text-align:left;
 }
-.text_field {
-  color:#000000;
-  text-align:left;
-}
-.text_area {
-  color:#000000;
-  text-align:left;
-}
-.droplist {
-  color:#000000;
-  text-align:left;
-}
-.checkbox {
-  text-align:left;
-}
-.radio_button {
-  text-align:left;
-}
-.tree_node {
-  text-align:left;
-}
-.table_cell {
-}
-._连接 {
-}
-.menu_item {
-}
-.form_hint {
-  color:#999999;
-}
-.form_disabled {
-}
 ._表单提示 {
   color:#999999;
 }
@@ -99,11 +61,13 @@
 }
 ._流程形状 {
 }
+._形状 {
+}
 ._线段 {
 }
 .line {
 }
-.arrow {
+.box_1 {
 }
 .label {
   font-size:14px;
@@ -111,16 +75,40 @@
 }
 .box_2 {
 }
+.droplist {
+  color:#000000;
+  text-align:left;
+}
+.form_disabled {
+}
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.form_hint {
+  color:#999999;
+}
+.table_cell {
+}
+.checkbox {
+  text-align:left;
+}
 .primary_button {
   color:#FFFFFF;
 }
-.link_button {
-  color:#169BD5;
+._图片_ {
 }
 .ellipse {
 }
-.flow_shape {
+.text_area {
+  color:#000000;
+  text-align:left;
 }
-._形状1 {
+.radio_button {
+  text-align:left;
+}
+.arrow {
+}
+.flow_shape {
 }
 textarea, select, input, button { outline: none; }
